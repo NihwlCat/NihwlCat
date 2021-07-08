@@ -6,7 +6,9 @@
 ### <img src="https://img.icons8.com/emoji/48/000000/rainbow-flag.png"/> Eae, tudo bem?
 Me chamo Pedro, tenho 21 anos e atualmente estou cursando Engenharia da Computação.
 
-* Em busca de se tornar um desenvolvedor Back-end
+* Em busca de me tornar um desenvolvedor Back-end (e posteriormente full-stack, hihi).
 * Minhas stacks envolvem Java, Hibernate, Spring Boot e também estou flertando com JavaScript, CSS e ReactJS.
+
+⭐ l'm not throwing away my shot
 
 
